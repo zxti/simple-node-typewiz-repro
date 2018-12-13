@@ -1,0 +1,16 @@
+{
+  "name": "simple-node-typewiz-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yang Zhang <yaaang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.2",
+    "typewiz": "^1.2.3",
+    "typewiz-node": "^1.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.14"
+  }
+}
